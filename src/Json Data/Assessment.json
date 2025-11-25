@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "text": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "topic": "Geography"
+  },
+  {
+    "id": "2",
+    "text": "Which planet is known as the 'Red Planet'?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "topic": "Astronomy"
+  },
+  {
+    "id": "3",
+    "text": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "topic": "Geography"
+  },
+  {
+    "id": "4",
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "topic": "Art"
+  },
+  {
+    "id": "5",
+    "text": "What is the chemical symbol for water?",
+    "options": ["O2", "H2O", "CO2", "NaCl"],
+    "topic": "Science"
+  },
+  {
+    "id": "6",
+    "text": "Which country is famous for the Great Wall?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "topic": "History"
+  },
+  {
+    "id": "7",
+    "text": "What is the highest mountain in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "topic": "Geography"
+  },
+  {
+    "id": "8",
+    "text": "What is the main ingredient in guacamole?",
+    "options": ["Tomato", "Avocado", "Onion", "Lime"],
+    "topic": "Food"
+  },
+  {
+    "id": "9",
+    "text": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["Tiger", "Lion", "Elephant", "Bear"],
+    "topic": "Animals"
+  },
+  {
+    "id": "10",
+    "text": "What is the capital of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "topic": "Geography"
+  },
+  {
+    "id": "11",
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "topic": "Literature"
+  },
+  {
+    "id": "12",
+    "text": "What is the currency of the United States?",
+    "options": ["Euro", "Pound", "Dollar", "Yen"],
+    "topic": "Economics"
+  },
+  {
+    "id": "13",
+    "text": "Which sport is known as the 'beautiful game'?",
+    "options": ["Basketball", "Tennis", "Soccer", "Cricket"],
+    "topic": "Sports"
+  },
+  {
+    "id": "14",
+    "text": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Antarctic Polar Desert"],
+    "topic": "Geography"
+  },
+  {
+    "id": "15",
+    "text": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "topic": "Science"
+  }
+]
